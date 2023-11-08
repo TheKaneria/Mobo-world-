@@ -114,6 +114,7 @@ const Wrapper = styled.section`
   }
   .add-to-cart {
     text-align: center;
+    vertical-align: center;
   }
 `;
 export default AddToCart;
